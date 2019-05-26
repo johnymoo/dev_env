@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<settings version="0.1.0.54">
+	<general_settings allow_one_instance="-1" always_on_top="0" minimize_to_tray="-1" close_to_tray="-1" language="English.lng" log_level="2" backup_type="0"/>
+	<main_window left="356" top="348" width="1533" height="996" state="1"/>
+	<view_settings number_of_x_panels="2" number_of_y_panels="1" show_main_menu="0" show_main_menu_toolbar="-1" show_main_toolbar="-1" show_nav_panel="0" show_resources_buttons="-1" show_resources_lists="0" show_disk_size_bar_text="-1" show_disk_size_bar_graphics="0" show_path_panels="-1" show_info_bars="-1" show_command_line="0" show_FKT="-1" show_status_bar="-1" visual_styles="-1" main_wnd_color="15790320">
+		<vert_splitters>
+			<splitter coeff="0.5"/>
+		</vert_splitters>
+		<hor_splitters/>
+		<display_settings show_hidden_files="-1" show_system_files="-1" hide_extensions="0" show_extension_when_name_empty="0" hide_folder_in_type_column="0" size_format="2" show_size_units="-1" date_time_format="System" natural_sort="0" iocn_search_mode="0">
+			<ignore_list/>
+			<folder_view_profiles/>
+		</display_settings>
+		<main_menu_settings/>
+		<main_toolbar_settings/>
+		<main_menu_toolbar text_color="0" highlight_color="14120960" highlight_text_color="16777215" font="1;0;0;Segoe UI;-12;0;0;0;0;0;0;0;400;0;"/>
+		<main_rebar locked="-1">
+			<band ID="615" break="-1" width="410"/>
+			<band ID="600" break="-1" width="656"/>
+		</main_rebar>
+		<nav_panel_settings splitter_coeff="0.25" res_group_expanded="-1" ff_group_expanded="-1" system_group_expanded="-1" background_color="15130068" text_color="0" group_color="14336177" group_color_2="12425347" group_text_color="16777215" font="" group_font="1;0;0;Tahoma;-11;0;0;0;0;0;0;0;700;0;"/>
+		<resources_toolbar_settings text_color="0" font=""/>
+		<resources_combobox_settings color="16777215" text_color="0" selection_color="14120960" selection_text_color="16777215" font="1;0;0;Segoe UI;-12;0;0;0;0;0;0;0;400;0;"/>
+		<disk_size_bar_settings show_in_one_line="0" text_color="0" graphics_color="5225046" little_disk_space_color="33023" font="1;0;0;Segoe UI;-12;0;0;0;0;0;0;0;400;0;"/>
+		<tabs_settings show_one_tab="-1" multiline="0" double_click="-1" system_theme="-1" all_tabs_same_width="0" min_width_enabled="0" min_width="42" max_width_enabled="0" max_width="100" close_not_locked="0" reset_locked_nav_allowed_on_sel_change="-1" show_lock_icons="-1" lock_symbol="*" active_tab_color="16777215" inactive_tab_color="15790320" active_tab_text_color="0" inactive_tab_text_color="0" font="1;0;0;Segoe UI;-12;0;0;0;0;0;0;0;400;0;"/>
+		<panel_view_settings explorer_style="-1" u_p_e_r_c="-1" transparent_selection="0" show_grid="0" adjust_columns_to_panel_width="0" automatic_autosize="-1" one_report_view_settings="0" one_click_activate="0" nc_style_selection="0" right_button_selection="0" remove_selection_on_click="0" go_to_next_item_on_selectitem_cmd="-1" thumbnail_size="96" background_color="16777215" text_color="0" even_background_color="16250355" even_text_color="0" focused_selection_color="14120960" focused_selection_text_color="16777215" selection_color="15790320" selection_text_color="0" font="">
+			<color_file_filters use_cff_back_color="0">
+				<color_file_filter text_color="32768" background_color="16777215" font="">
+					<file_filter name="Executable" date_flag="0" date_type="2" between_flag="-1" first_date="11/30/1999" second_date="11/30/1999" not_older_flag="0" not_older_number="0" not_older_type="3" size_flag="0" min_size="0" max_size="0" min_unit="1" max_unit="1" size_include_folders="-1" attributes_flag="0">
+						<attributes_filter hidden="0" system="0" readonly="0" directory="0" archive="0" compressed="0" encrypted="0" offline="0" reparse_point="0" sparse_file="0" temporary="0"/>
+						<extensions>
+							<extension name="exe"/>
+							<extension name="com"/>
+						</extensions>
+					</file_filter>
+				</color_file_filter>
+				<color_file_filter text_color="16711680" background_color="16777215" font="">
+					<file_filter name="Compressed" date_flag="0" date_type="2" between_flag="-1" first_date="11/30/1999" second_date="11/30/1999" not_older_flag="0" not_older_number="0" not_older_type="3" size_flag="0" min_size="0" max_size="0" min_unit="1" max_unit="1" size_include_folders="-1" attributes_flag="1">
+						<attributes_filter hidden="0" system="0" readonly="0" directory="0" archive="0" compressed="1" encrypted="0" offline="0" reparse_point="0" sparse_file="0" temporary="0"/>
+					</file_filter>
+				</color_file_filter>
+				<color_file_filter text_color="33023" background_color="16777215" font="">
+					<file_filter name="Reparse point" date_flag="0" date_type="2" between_flag="-1" first_date="11/30/1999" second_date="11/30/1999" not_older_flag="0" not_older_number="0" not_older_type="3" size_flag="0" min_size="0" max_size="0" min_unit="1" max_unit="1" size_include_folders="-1" attributes_flag="1">
+						<attributes_filter hidden="0" system="0" readonly="0" directory="0" archive="0" compressed="0" encrypted="0" offline="0" reparse_point="1" sparse_file="0" temporary="0"/>
+					</file_filter>
+				</color_file_filter>
+				<color_file_filter text_color="8421504" background_color="16777215" font="">
+					<file_filter name="Hidden" date_flag="0" date_type="2" between_flag="-1" first_date="11/30/1999" second_date="11/30/1999" not_older_flag="0" not_older_number="0" not_older_type="3" size_flag="0" min_size="0" max_size="0" min_unit="1" max_unit="1" size_include_folders="-1" attributes_flag="1">
+						<attributes_filter hidden="1" system="0" readonly="0" directory="0" archive="0" compressed="0" encrypted="0" offline="0" reparse_point="0" sparse_file="0" temporary="0"/>
+					</file_filter>
+				</color_file_filter>
+				<color_file_filter text_color="8421504" background_color="16777215" font="">
+					<file_filter name="System" date_flag="0" date_type="2" between_flag="-1" first_date="11/30/1999" second_date="11/30/1999" not_older_flag="0" not_older_number="0" not_older_type="3" size_flag="0" min_size="0" max_size="0" min_unit="1" max_unit="1" size_include_folders="-1" attributes_flag="1">
+						<attributes_filter hidden="0" system="1" readonly="0" directory="0" archive="0" compressed="0" encrypted="0" offline="0" reparse_point="0" sparse_file="0" temporary="0"/>
+					</file_filter>
+				</color_file_filter>
+			</color_file_filters>
+			<columns_info>
+				<column data_type="0" width="170" visible="-1" align="0" locked="-1"/>
+				<column data_type="1" width="50" visible="-1" align="0" locked="0"/>
+				<column data_type="5" width="60" visible="-1" align="1" locked="0"/>
+				<column data_type="2" width="120" visible="0" align="0" locked="0"/>
+				<column data_type="3" width="120" visible="0" align="0" locked="0"/>
+				<column data_type="4" width="120" visible="-1" align="0" locked="0"/>
+				<column data_type="6" width="40" visible="-1" align="0" locked="0"/>
+			</columns_info>
+		</panel_view_settings>
+		<pathpanels_settings focused_color="12632256" color="16777215" focused_text_color="0" text_color="0" selection_color="14120960" selection_text_color="16777215" font="1;0;0;Segoe UI;-12;0;0;0;0;0;0;0;400;0;"/>
+		<infobar_settings color="14811135" text_color="0" font="1;0;0;Segoe UI;-12;0;0;0;0;0;0;0;400;0;"/>
+		<commandline_settings save_command_history="-1" leave_cmd_open="-1" goto_cmd_by_letter="0" path_color="0" font="1;0;0;Segoe UI;-12;0;0;0;0;0;0;0;400;0;">
+			<last_used>
+				<command>dell</command>
+				<command>fff</command>
+				<command>cpo</command>
+			</last_used>
+		</commandline_settings>
+		<fkt_settings background_color="15790320" text_color="0" font=""/>
+		<visual_parts>
+			<visual_part ftp_log_splitter_coeff="0.5">
+				<panel_view view_type="1">
+					<column data_type="0" width="32" visible="-1" align="0" locked="-1"/>
+					<column data_type="1" width="27" visible="-1" align="0" locked="0"/>
+					<column data_type="5" width="27" visible="-1" align="1" locked="0"/>
+					<column data_type="2" width="120" visible="0" align="0" locked="0"/>
+					<column data_type="3" width="120" visible="0" align="0" locked="0"/>
+					<column data_type="4" width="27" visible="-1" align="0" locked="0"/>
+					<column data_type="6" width="27" visible="-1" align="0" locked="0"/>
+				</panel_view>
+			</visual_part>
+			<visual_part ftp_log_splitter_coeff="0.5">
+				<panel_view view_type="1">
+					<column data_type="0" width="211" visible="-1" align="0" locked="-1"/>
+					<column data_type="1" width="47" visible="-1" align="0" locked="0"/>
+					<column data_type="5" width="58" visible="-1" align="1" locked="0"/>
+					<column data_type="4" width="132" visible="-1" align="0" locked="0"/>
+					<column data_type="2" width="120" visible="0" align="0" locked="0"/>
+					<column data_type="3" width="120" visible="0" align="0" locked="0"/>
+					<column data_type="6" width="27" visible="-1" align="0" locked="0"/>
+				</panel_view>
+			</visual_part>
+		</visual_parts>
+	</view_settings>
+	<navigation_settings check_all_paths_on_startup="-1" show_nav_progress="-1" open_root_folder="-1" follow_symlinks="-1" oinp_open_in_new_tab="0" oinp_move_focus="-1">
+		<startup_folders>
+			<folder>C:\Users\huiqing.wang\Documents</folder>
+			<folder>C:\Users\huiqing.wang\Downloads</folder>
+		</startup_folders>
+	</navigation_settings>
+	<file_operations_settings use_shell="0" parallel="0" show_copy_confirm="-1" show_move_confirm="-1" show_delete_confirm="-1" show_file_op_toolbar="0" select_ext_on_rename="0" open_new_file_in_editor="-1"/>
+	<panel_manager_settings history_length="10">
+		<logical_parts>
+			<logical_part>
+				<history cur_sel="9">
+					<history_item path="C:\Users\huiqing.wang\scoop\apps"/>
+					<history_item path="C:\Users\huiqing.wang\Downloads"/>
+					<history_item path="C:\Users\huiqing.wang"/>
+					<history_item path="C:\Users\huiqing.wang\Documents"/>
+					<history_item path="C:\Users\huiqing.wang\Documents\program"/>
+					<history_item path="C:\Users\huiqing.wang\Documents\program\scoop"/>
+					<history_item path="C:\Users\huiqing.wang\Documents\program"/>
+					<history_item path="C:\Users\huiqing.wang\Documents\program\scoop"/>
+					<history_item path="C:\Users\huiqing.wang\Documents\program"/>
+					<history_item path="C:\Users\huiqing.wang\Documents\program\scoop"/>
+				</history>
+				<panels>
+					<panel_doc path="C:\Users\huiqing.wang\scoop\apps" name="" lock_status="0" sort_data="4" sort_type="0" startup_index="0" active_status="0"/>
+					<panel_doc path="C:\Users\huiqing.wang\Documents\program\scoop" name="" lock_status="0" sort_data="4" sort_type="1" startup_index="1" active_status="-1"/>
+				</panels>
+			</logical_part>
+			<logical_part>
+				<history cur_sel="9">
+					<history_item path="C:\Users\huiqing.wang\Documents\personal\SynologyDrive\AAS\G&amp;M"/>
+					<history_item path="C:\Users\huiqing.wang\Documents\personal\SynologyDrive\AAS\G&amp;M\Project"/>
+					<history_item path="C:\Users\huiqing.wang\Documents\personal\SynologyDrive\AAS\G&amp;M"/>
+					<history_item path="C:\Users\huiqing.wang\Documents\personal\SynologyDrive\AAS"/>
+					<history_item path="C:\Users\huiqing.wang\Documents\personal\SynologyDrive\AAS\Lillian"/>
+					<history_item path="C:\Users\huiqing.wang\Documents\personal\SynologyDrive\AAS\Lillian\ND宁德"/>
+					<history_item path="C:\Users\huiqing.wang\Documents\personal\SynologyDrive\AAS\Lillian\ND宁德\production"/>
+					<history_item path="C:\Users\huiqing.wang\Documents\personal\SynologyDrive\AAS\Lillian\ND宁德\production\宁德移动数据"/>
+					<history_item path="C:\Users\huiqing.wang\Documents\personal\SynologyDrive\AAS\G&amp;M"/>
+					<history_item path="C:\Users\huiqing.wang\Documents\personal\SynologyDrive\AAS\G&amp;M\算法"/>
+				</history>
+				<panels>
+					<panel_doc path="C:\Users\huiqing.wang\Documents\personal\portable\PortableApps\gVimPortable\Data\settings" name="" lock_status="0" sort_data="0" sort_type="0" startup_index="0" active_status="0"/>
+					<panel_doc path="C:\Users\huiqing.wang\Documents\personal\SynologyDrive\AAS\G&amp;M\算法" name="" lock_status="0" sort_data="4" sort_type="1" startup_index="1" active_status="-1"/>
+					<panel_doc path="C:\Users\huiqing.wang\Documents\personal\SynologyDrive\AAS\Lillian\ND宁德\production\宁德移动数据" name="" lock_status="0" sort_data="4" sort_type="1" startup_index="2" active_status="0"/>
+				</panels>
+			</logical_part>
+		</logical_parts>
+	</panel_manager_settings>
+	<folder_favorites show_icons="-1" display_real_icons="-1"/>
+	<system_folders>
+		<system_folder id="5"/>
+		<system_folder id="16"/>
+		<system_folder id="6"/>
+		<system_folder id="11"/>
+		<system_folder id="-1"/>
+		<system_folder id="26"/>
+		<system_folder id="28"/>
+		<system_folder id="35"/>
+		<system_folder id="-1"/>
+		<system_folder id="12"/>
+		<system_folder id="32"/>
+		<system_folder id="-1"/>
+		<system_folder id="38"/>
+		<system_folder id="42"/>
+		<system_folder id="-1"/>
+		<system_folder id="36"/>
+		<system_folder id="37"/>
+	</system_folders>
+	<file_search_settings>
+		<dialog show_state="1" left="0" top="0" right="0" bottom="0" last_selected_tab="0">
+			<table_info>
+				<column data_type="0" width="170" visible="-1" align="0" locked="-1"/>
+				<column data_type="7" width="170" visible="-1" align="0" locked="0"/>
+				<column data_type="1" width="50" visible="-1" align="0" locked="0"/>
+				<column data_type="5" width="60" visible="-1" align="1" locked="0"/>
+				<column data_type="2" width="120" visible="0" align="0" locked="0"/>
+				<column data_type="3" width="120" visible="0" align="0" locked="0"/>
+				<column data_type="4" width="120" visible="-1" align="0" locked="0"/>
+				<column data_type="6" width="40" visible="-1" align="0" locked="0"/>
+			</table_info>
+		</dialog>
+		<general>
+			<search_for/>
+			<search_text/>
+			<search_in/>
+		</general>
+		<advanced save_settings="0"/>
+		<template name="CurrentTemplate" date_flag="0" date_type="2" between_flag="-1" first_date="11/30/1999" second_date="11/30/1999" not_older_flag="0" not_older_number="0" not_older_type="3" size_flag="0" min_size="0" max_size="0" min_unit="1" max_unit="1" size_include_folders="-1" attributes_flag="0" search_for="" exact_match="0" search_text="" case="0" search_in="C:\" subfolders="-1">
+			<attributes_filter hidden="0" system="0" readonly="0" directory="0" archive="0" compressed="0" encrypted="0" offline="0" reparse_point="0" sparse_file="0" temporary="0"/>
+		</template>
+		<templates/>
+	</file_search_settings>
+	<quick_search_settings mode="0" hotkey_mode="3" starts_with="-1"/>
+	<multi_rename_settings>
+		<dialog left="0" top="0" right="0" bottom="0" state="1">
+			<table_info>
+				<column data_type="0" width="170" visible="-1" align="0" locked="-1"/>
+				<column data_type="8" width="170" visible="-1" align="0" locked="-1"/>
+				<column data_type="1" width="50" visible="0" align="0" locked="0"/>
+				<column data_type="5" width="60" visible="0" align="1" locked="0"/>
+				<column data_type="2" width="120" visible="0" align="0" locked="0"/>
+				<column data_type="3" width="120" visible="0" align="0" locked="0"/>
+				<column data_type="4" width="120" visible="0" align="0" locked="0"/>
+				<column data_type="6" width="40" visible="0" align="0" locked="0"/>
+				<column data_type="7" width="170" visible="-1" align="0" locked="0"/>
+			</table_info>
+		</dialog>
+		<new_name_patterns/>
+		<extension_patterns/>
+		<find_what/>
+		<replace_with/>
+		<template template_name="CurrentTemplate" name_pattern="&lt;name&gt;" ext_pattern="&lt;ext&gt;" find_what="" rep_with="" case="0" counter_start="0" counter_step="1" counter_digits="1"/>
+		<templates/>
+	</multi_rename_settings>
+	<ftp_settings open_new_connection="0" open_manager_at_unsuccessful_connection="-1" keep_alive_interval="10">
+		<dialog left="0" top="0" right="0" bottom="0" state="1">
+			<table_info>
+				<column data_type="9" width="150" visible="-1" align="0" locked="-1"/>
+				<column data_type="10" width="150" visible="-1" align="0" locked="0"/>
+				<column data_type="11" width="50" visible="-1" align="1" locked="0"/>
+			</table_info>
+		</dialog>
+		<connections/>
+	</ftp_settings>
+	<view_edit_settings>
+		<profiles>
+			<view_edit_profile viewer_path="C:\Users\huiqing.wang\Documents\personal\portable\PortableApps\gVimPortable\App\vim\vim80\gvim.exe" viewer_params="%FULL%" editor_path="C:\Users\huiqing.wang\Documents\personal\portable\PortableApps\gVimPortable\App\vim\vim80\gvim.exe" editor_params="%FULL%">
+				<file_filter name="All files" date_flag="0" date_type="2" between_flag="-1" first_date="11/30/1999" second_date="11/30/1999" not_older_flag="0" not_older_number="0" not_older_type="3" size_flag="0" min_size="0" max_size="0" min_unit="1" max_unit="1" size_include_folders="-1" attributes_flag="0">
+					<attributes_filter hidden="0" system="0" readonly="0" directory="0" archive="0" compressed="0" encrypted="0" offline="0" reparse_point="0" sparse_file="0" temporary="0"/>
+					<extensions>
+						<extension name="*"/>
+					</extensions>
+				</file_filter>
+			</view_edit_profile>
+		</profiles>
+	</view_edit_settings>
+	<quick_viewer_settings max_file_size="0" word_wrap="0" automatic_image_resizing="-1"/>
+	<main_prop_dialog selected_sheet="STARTUP_FOLDERS">
+		<fonts_colors selected_tab="FC" selected_tree_item="MAIN_TOOLBAR"/>
+	</main_prop_dialog>
+	<custom_colors>
+		<custom_color color="0"/>
+		<custom_color color="0"/>
+		<custom_color color="0"/>
+		<custom_color color="0"/>
+		<custom_color color="0"/>
+		<custom_color color="0"/>
+		<custom_color color="0"/>
+		<custom_color color="0"/>
+		<custom_color color="0"/>
+		<custom_color color="0"/>
+		<custom_color color="0"/>
+		<custom_color color="0"/>
+		<custom_color color="0"/>
+		<custom_color color="0"/>
+		<custom_color color="0"/>
+		<custom_color color="0"/>
+	</custom_colors>
+</settings>
