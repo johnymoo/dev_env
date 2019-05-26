@@ -38,6 +38,11 @@ https://code.visualstudio.com/
 4. Wox: Alfred in Windows
 
 http://www.getwox.com/
+tips: https://sspai.com/post/33460
+* Wox 也可以记住复制过的内容并可随时调用，只需要安装 ClipBoard History 插件即可实现，触发关键词「cb」，安装命令：
+```
+wpm install Clipboard History
+```
 
 5. Fliqlo: cool screensave for Digital Clock
 
