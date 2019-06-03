@@ -64,3 +64,11 @@ iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
 9. Xmeters: free monitoring toolkit
 
 https://entropy6.com/xmeters/download/
+
+10. SumatraPDF: free pdf viewer (also support epub, mobi and etc.)
+
+https://www.sumatrapdfreader.org/download-free-pdf-viewer.html
+
+11. WinSize: windows management
+
+https://github.com/dmscode/WinSize/releases/tag/v3.0.3
