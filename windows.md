@@ -72,3 +72,7 @@ https://www.sumatrapdfreader.org/download-free-pdf-viewer.html
 11. WinSize: windows management
 
 https://github.com/dmscode/WinSize/releases/tag/v3.0.3
+
+## Reference
+
+* https://post.smzdm.com/p/az596kxo/
